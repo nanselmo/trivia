@@ -73,7 +73,7 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 - [ ] Using `useState` in `<App />`, create a state variable to keep track of which answer choice the user clicks.
   - [ ] Inside the map function for the Answer components, add an event handler that updates the state to be the choice that the user clicks.
   - [ ] HINT: Use props to pass down the state from `<App />`.
-  - [ ] HINT: Don't forget to pass your `onClick` down as a prop as well.
+  - [ ] HINT: Don't forget to pass your `onClick` down as a prop as well. To use an argument inside the `onClick` function, use the arrow function syntax [[Reference](https://upmostly.com/tutorials/pass-a-parameter-through-onclick-in-react)].
 - [ ] Inside `<App />` (below state and above return), write a conditional that checks if the answer clicked is the correct answer.
   - [ ] Display text on the screen telling the user if their answer choice was correct.
   - [ ] Display text on the screen telling the user what the correct answer was.
