@@ -63,7 +63,7 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 - [ ] Make a prop on `<NextQuestion />` to pass the prop down to the button element to call that function when the button is clicked.
 - [ ] Check that every part of your question and answer updates to reflect the current question number.
 - [ ] Reset the state of `answerDisplayed` when the Next Question button is clicked so the correct answer stops being displayed.
-- [ ] BONUS: Add [conditional rendering](https://reactjs.org/docs/conditional-rendering.html) to hide `<NextQuestion />` when there are no more next questions.
+- [ ] BONUS: Add [conditional rendering](https://www.w3schools.com/react/react_conditional_rendering.asp) to hide `<NextQuestion />` when there are no more next questions.
 
 >![Day 3.0 goal](https://i.imgur.com/fetraPF.png)
 >![Day 3.0 with bonus](https://i.imgur.com/GruM8g2.png)
